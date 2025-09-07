@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /practice/session
+Disallow: /practice/results
+Disallow: /analytics
+
+# Sitemap
+Sitemap: https://28b4054f-c681-4a64-94a9-a1865ff8f15e.sandbox.lovable.dev/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
